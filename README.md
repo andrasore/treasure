@@ -8,6 +8,8 @@ The potion increases the HP a little.
 
 If you exit the dungeon before the treasure is found you also lose.
 
+The player is controlled with the asdf keys. Currently the solve function is unimplemented (which would try to complete the map).
+
 ###Compile and run
 
 The build is performed with CMake. The game will probably compile on all UNIX-like OSes with a C++14 capable compiler.
