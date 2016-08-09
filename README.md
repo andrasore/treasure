@@ -1,7 +1,6 @@
 # treasure
 ## An extremely simple roguelike RPG for UNIX
-In this game the player must find the treasure, and exit the dungeon.
-There can be monsters, and traps on a map.
+In this game the player must find the treasure, avoid monsters, and exit the dungeon.
 
 The player can kill the monster, but only if a sword is found first,
 or else the monster will kill the player. The traps can be only crossed once.
