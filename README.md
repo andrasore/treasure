@@ -20,8 +20,8 @@ Just create a directory, and:
 ###Maps
 Maps are stored in plaintext files. The rows of the map should have equal lengths.
 
-The game doesn't really check whether the provided map can be played through, but a player must be on the map, and
-the map must be rectangular.
+The game doesn't really check whether the provided map can be played through, but dimensions are checked,
+and a player must be on the map.
 
 Example map:
 
